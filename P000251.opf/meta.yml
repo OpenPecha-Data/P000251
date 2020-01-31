@@ -1,0 +1,38 @@
+ebook_metadata:
+  title: ༄༅། །ཞེན་པ་བཞི་བྲལ་གྱི་ཁྲིད་ཡིག་བཞུགས་སོ། །
+  authors:
+  - མཛད་པ་པོ། ཀུན་དགའ་ལེགས་པའི་རིན་ཆེན།
+  sku: IBA-MT-04-1
+  layers:
+  - book_title
+  - author
+  - tsawa
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: Instructions on Parting from the Four Attachments
+    bo: ཞེན་པ་བཞི་བྲལ་གྱི་ཁྲིད་ཡིག།
+  collection:
+    en: IBA Mind Training Series–  Book 4
+    bo: རྒྱལ་ཡོངས་གསུང་རབ་བློ་སྦྱོང་བསྟར་རིམ།–  དེབ། ༤
+  author:
+    en: Kunga Legpai Rinchen
+    bo: ཀུན་དགའ་ལེགས་པའི་རིན་ཆེན།
+  pusblisher:
+    en: IBA Publications
+    bo: རྒྱལ་ཡོངས་གསུང་རབ་སློབ་གཉེར་ཁང་།
+  sku: IBA-MT-04-1
+  category:
+    en: ''
+    bo: ''
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: IBA-MT-04-1.epub
+  description:
+    en: Instructions on the practice of the famous text Parting from the Four Attachments
+      By Kunga Legpa Rinchen.
+    bo: བོད་དུ་ས་ཆེན་ཀུན་དགའ་སྙིང་པོ་བརྒྱུད་དེ་འོང་བའི་བློ་སྦྱོང་སྐོར་གྱི་འགྲེལ་པ་ཞིག་ཡིན།
