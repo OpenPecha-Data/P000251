@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000251
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཞེན་པ་བཞི་བྲལ་གྱི་ཁྲིད་ཡིག་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། ཀུན་དགའ་ལེགས་པའི་རིན་ཆེན།
-  sku: IBA-MT-04-1
   layers:
   - book_title
   - author
   - tsawa
   - quotation
   - sabche
+  id: IBA-MT-04-1
 web_metadata:
   title:
     en: Instructions on Parting from the Four Attachments
